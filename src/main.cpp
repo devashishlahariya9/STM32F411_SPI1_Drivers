@@ -4,12 +4,12 @@ Nokia5110 lcd;
 
 int main(void)
 {
-	lcd.init();
+	lcd.init();		//Initialize The LCD
 
 	lcd.setCursor(0, 0);
 	lcd.print("Devashish :)");
 
-	lcd.display();
+	lcd.display();		//This function has to be called after you are done setting up the print statements
 
 	while(1)
 	{
