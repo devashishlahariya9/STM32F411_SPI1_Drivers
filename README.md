@@ -1,2 +1,2 @@
 # STM32F411xx-SPI-Drivers
-SPI Drivers for STM32F411VE-DISCO Board
+SPI Drivers for STM32F4 Series MCUs/Boards
